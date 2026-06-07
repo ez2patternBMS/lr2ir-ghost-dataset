@@ -1,5 +1,5 @@
 # lr2ir-ghost-dataset
-Roughly Scrabed ghost(replay) Data
+Roughly Scrabed ghost(replay) Data until 2026-05-31
 
 lr2ir_ghosts.tar.gz: Total 4,166,362 records, which cover about 16% of total LR2IR ghost datas, datas that only be scrabed by me.
 
